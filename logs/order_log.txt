@@ -1,0 +1,2 @@
+user purchased book science at 2023-11-08 18:19:19.211544, in stock left 1188
+user purchased book science at 2023-11-08 18:20:52.566695, in stock left 1187
